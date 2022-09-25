@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2,
+        "first_name": "Семеныч",
+        "last_name": "Семен",
+        "phone_number": "111"
+    },
+    {
+        "id": 3,
+        "first_name": "Ломоченко",
+        "last_name": "Василий",
+        "phone_number": "77777777776"
+    },
+    {
+        "id": 4,
+        "first_name": "Путин",
+        "last_name": "Владимер",
+        "phone_number": "77777777775"
+    },
+    {
+        "id": 5,
+        "first_name": "Тайсон",
+        "last_name": "Майк",
+        "phone_number": "77777777774"
+    },
+    {
+        "id": 6,
+        "first_name": "Цой",
+        "last_name": "Виктор",
+        "phone_number": "77777777773"
+    },
+    {
+        "id": 7,
+        "first_name": "Первый",
+        "last_name": "Петор",
+        "phone_number": "77777777772"
+    },
+    {
+        "id": 8,
+        "first_name": "Пушкин",
+        "last_name": "Александр",
+        "phone_number": "77777777771"
+    },
+    {
+        "id": 9,
+        "first_name": "Есенин",
+        "last_name": "Сергей",
+        "phone_number": "77777777777"
+    },
+    {
+        "id": 10,
+        "first_name": "Петров",
+        "last_name": "Иван",
+        "phone_number": "89174701011"
+    }
+]
